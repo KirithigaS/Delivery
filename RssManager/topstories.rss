@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+	<title>Top-news to be listed in web site</title>
+	<link>http://cio.economictimes.indiatimes.com/rss/topstories</link>
+	<description>For current news please visit the link</description>
+	<pubdate>Thu, 13 Oct 2022 13:32:17 +0530</pubdate>
+<item>
+	<title>Topnewstories</title>
+	<description>Current News to be display</description>
+	<pubdate>Thu, 13 Oct 2022 13:32:17 +0530</pubdate>
+	<guid>http://cio.economictimes.indiatimes.com/rss/topstories</guid>
+
+</item>
+
+</channel>
+</rss>
